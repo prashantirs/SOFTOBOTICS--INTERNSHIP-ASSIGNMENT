@@ -1,0 +1,11 @@
+.login-btn{
+    background-color: rgb(118, 223, 174);
+    margin: 15rem auto;
+    border: none;
+    padding: 1rem;
+    width: 10rem;
+}
+
+.login-btn:hover{
+    background-color: rgb(154, 219, 189);
+}
